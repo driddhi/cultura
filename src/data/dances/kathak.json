@@ -1,0 +1,20 @@
+{
+  "name": "Kathak",
+  "origin": "North India (Lucknow, Jaipur, Banaras gharanas)",
+  "description": "Kathak is a classical Indian dance form known for its graceful spins (chakkars), intricate footwork (tatkaar), and expressive storytelling.",
+  "image": "/dances/kathak.jpg",
+  "history": "Kathak originated as storytelling dance performances in temples... [you can expand later]",
+  "theory": [
+    "Tatkaar (Footwork)",
+    "Chakkars (Spins)",
+    "Mudras (Hand Gestures)",
+    "Abhinaya (Expressions)",
+    "Gharanas – Lucknow, Jaipur, Banaras"
+  ],
+  "tutorials": [
+    "Basic Tatkaar",
+    "Chakkars for Beginners",
+    "Kathak Hand Gestures (Mudras)",
+    "Abhinaya Lessons"
+  ]
+}
